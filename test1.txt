@@ -1,2 +1,3 @@
 This is my first Git activity.
 Full Name: Brenel Nico M. Once
+Description: A dedicated IT student who enjoys learning new tech.
